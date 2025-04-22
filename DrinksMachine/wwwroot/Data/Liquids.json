@@ -1,0 +1,42 @@
+[
+  {
+      "Name": "Water",
+      "Volume": 500.0
+  },
+  {
+      "Name": "Orange Juice",
+      "Volume": 250.0
+  },
+  {
+      "Name": "Apple Juice",
+      "Volume": 300.0
+  },
+  {
+      "Name": "Milk",
+      "Volume": 200.0
+  },
+  {
+      "Name": "Coffee",
+      "Volume": 150.0
+  },
+  {
+      "Name": "Tea",
+      "Volume": 180.0
+  },
+  {
+      "Name": "Lemonade",
+      "Volume": 220.0
+  },
+  {
+      "Name": "Coca Cola",
+      "Volume": 330.0
+  },
+  {
+      "Name": "Pepsi",
+      "Volume": 330.0
+  },
+  {
+      "Name": "Ginger Ale",
+      "Volume": 250.0
+  }
+]
