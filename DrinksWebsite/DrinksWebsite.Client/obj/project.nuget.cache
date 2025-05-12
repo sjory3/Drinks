@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WE8qtkPkgxA=",
+  "dgSpecHash": "A7ZcqirlMEU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mgj32\\Documents\\GitHub\\Drinks\\DrinksWebsite\\DrinksWebsite.Client\\DrinksWebsite.Client.csproj",
+  "projectFilePath": "C:\\Users\\mgj32\\Documents\\Drinks\\DrinksWebsite\\DrinksWebsite.Client\\DrinksWebsite.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mgj32\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.15\\microsoft.aspnetcore.authorization.8.0.15.nupkg.sha512",
     "C:\\Users\\mgj32\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.15\\microsoft.aspnetcore.components.8.0.15.nupkg.sha512",

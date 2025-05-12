@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Builder;
 using DrinksWebsite.Client.Pages;
 using DrinksWebsite.Components;
 
@@ -5,15 +6,15 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
-    .AddInteractiveServerComponents()
-    .AddInteractiveWebAssemblyComponents();
+    .AddInteractiveServerComponents();
+    //.AddInteractiveWebAssemblyRenderMode();
 
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
-    app.UseWebAssemblyDebugging();
+    //app.UseWebAssemblyDebugging();
 }
 else
 {
@@ -29,7 +30,7 @@ app.UseAntiforgery();
 
 app.MapRazorComponents<App>()
     .AddInteractiveServerRenderMode()
-    .AddInteractiveWebAssemblyRenderMode()
+    //.AddInteractiveWebAssemblyRenderMode()
     .AddAdditionalAssemblies(typeof(DrinksWebsite.Client._Imports).Assembly);
 
 app.Run();

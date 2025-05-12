@@ -1,1 +1,3 @@
 C:\Users\mgj32\Documents\GitHub\Drinks\DrinksWebsite\DrinksWebsite.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mgj32\Documents\Drinks\DrinksWebsite\DrinksWebsite.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mgj32\Documents\Drinks\DrinksWebsite\DrinksWebsite.Client\obj\Debug\net8.0\staticwebassets.build.json

@@ -1,10 +1,10 @@
 {
   "ContentRoots": [
-    "/mnt/c/Users/mgj32/Documents/GitHub/Drinks/DrinksWebsite/DrinksWebsite/wwwroot/",
-    "/mnt/c/Users/mgj32/Documents/GitHub/Drinks/DrinksWebsite/DrinksWebsite.Client/bin/Debug/net8.0/wwwroot/",
-    "/mnt/c/Users/mgj32/Documents/GitHub/Drinks/DrinksWebsite/DrinksWebsite.Client/obj/Debug/net8.0/compressed/",
-    "/mnt/c/Users/mgj32/Documents/GitHub/Drinks/DrinksWebsite/DrinksWebsite.Client/wwwroot/",
-    "/mnt/c/Users/mgj32/Documents/GitHub/Drinks/DrinksWebsite/DrinksWebsite/obj/Debug/net8.0/scopedcss/bundle/"
+    "/mnt/c/Users/mgj32/Documents/Drinks/DrinksWebsite/DrinksWebsite/wwwroot/",
+    "/mnt/c/Users/mgj32/Documents/Drinks/DrinksWebsite/DrinksWebsite.Client/bin/Debug/net8.0/wwwroot/",
+    "/mnt/c/Users/mgj32/Documents/Drinks/DrinksWebsite/DrinksWebsite.Client/obj/Debug/net8.0/compressed/",
+    "/mnt/c/Users/mgj32/Documents/Drinks/DrinksWebsite/DrinksWebsite.Client/wwwroot/",
+    "/mnt/c/Users/mgj32/Documents/Drinks/DrinksWebsite/DrinksWebsite/obj/Debug/net8.0/scopedcss/bundle/"
   ],
   "Root": {
     "Children": {
@@ -1876,7 +1876,7 @@
             "Children": null,
             "Asset": {
               "ContentRootIndex": 2,
-              "SubPath": "3ihwg5bdcn-775l2us8gv.gz"
+              "SubPath": "3ihwg5bdcn-b6mrlb7qgt.gz"
             },
             "Patterns": null
           },
@@ -2780,7 +2780,7 @@
             "Children": null,
             "Asset": {
               "ContentRootIndex": 2,
-              "SubPath": "myza0tt0yq-7ehicqipu3.gz"
+              "SubPath": "myza0tt0yq-3n3h3rbfu8.gz"
             },
             "Patterns": null
           },
@@ -2788,7 +2788,7 @@
             "Children": null,
             "Asset": {
               "ContentRootIndex": 2,
-              "SubPath": "mzly8b0pmy-x2cscu4bxv.gz"
+              "SubPath": "mzly8b0pmy-4ct1ts0mcm.gz"
             },
             "Patterns": null
           },

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mgj32\\Documents\\GitHub\\Drinks\\DrinksWebsite\\DrinksWebsite.Client\\DrinksWebsite.Client.csproj": {}
+    "C:\\Users\\mgj32\\Documents\\Drinks\\DrinksWebsite\\DrinksWebsite.Client\\DrinksWebsite.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mgj32\\Documents\\GitHub\\Drinks\\DrinksWebsite\\DrinksWebsite.Client\\DrinksWebsite.Client.csproj": {
+    "C:\\Users\\mgj32\\Documents\\Drinks\\DrinksWebsite\\DrinksWebsite.Client\\DrinksWebsite.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mgj32\\Documents\\GitHub\\Drinks\\DrinksWebsite\\DrinksWebsite.Client\\DrinksWebsite.Client.csproj",
+        "projectUniqueName": "C:\\Users\\mgj32\\Documents\\Drinks\\DrinksWebsite\\DrinksWebsite.Client\\DrinksWebsite.Client.csproj",
         "projectName": "DrinksWebsite.Client",
-        "projectPath": "C:\\Users\\mgj32\\Documents\\GitHub\\Drinks\\DrinksWebsite\\DrinksWebsite.Client\\DrinksWebsite.Client.csproj",
+        "projectPath": "C:\\Users\\mgj32\\Documents\\Drinks\\DrinksWebsite\\DrinksWebsite.Client\\DrinksWebsite.Client.csproj",
         "packagesPath": "C:\\Users\\mgj32\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mgj32\\Documents\\GitHub\\Drinks\\DrinksWebsite\\DrinksWebsite.Client\\obj\\",
+        "outputPath": "C:\\Users\\mgj32\\Documents\\Drinks\\DrinksWebsite\\DrinksWebsite.Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
