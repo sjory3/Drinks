@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mgj32\\Documents\\GitHub\\Drinks\\DrinksWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF3BF47-FC74-46D9-B4E8-60BE481191A8}|DrinksWebsite\\DrinksWebsite.csproj|c:\\users\\mgj32\\documents\\github\\drinks\\drinkswebsite\\drinkswebsite\\services\\controllerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF3BF47-FC74-46D9-B4E8-60BE481191A8}|DrinksWebsite\\DrinksWebsite.csproj|solutionrelative:drinkswebsite\\services\\controllerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF3BF47-FC74-46D9-B4E8-60BE481191A8}|DrinksWebsite\\DrinksWebsite.csproj|c:\\users\\mgj32\\documents\\github\\drinks\\drinkswebsite\\drinkswebsite\\services\\drinkdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF3BF47-FC74-46D9-B4E8-60BE481191A8}|DrinksWebsite\\DrinksWebsite.csproj|solutionrelative:drinkswebsite\\services\\drinkdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF3BF47-FC74-46D9-B4E8-60BE481191A8}|DrinksWebsite\\DrinksWebsite.csproj|c:\\users\\mgj32\\documents\\github\\drinks\\drinkswebsite\\drinkswebsite\\models\\liquid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF3BF47-FC74-46D9-B4E8-60BE481191A8}|DrinksWebsite\\DrinksWebsite.csproj|solutionrelative:drinkswebsite\\models\\liquid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF3BF47-FC74-46D9-B4E8-60BE481191A8}|DrinksWebsite\\DrinksWebsite.csproj|c:\\users\\mgj32\\documents\\github\\drinks\\drinkswebsite\\drinkswebsite\\models\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF3BF47-FC74-46D9-B4E8-60BE481191A8}|DrinksWebsite\\DrinksWebsite.csproj|solutionrelative:drinkswebsite\\models\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF3BF47-FC74-46D9-B4E8-60BE481191A8}|DrinksWebsite\\DrinksWebsite.csproj|c:\\users\\mgj32\\documents\\github\\drinks\\drinkswebsite\\drinkswebsite\\models\\alcohol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF3BF47-FC74-46D9-B4E8-60BE481191A8}|DrinksWebsite\\DrinksWebsite.csproj|solutionrelative:drinkswebsite\\models\\alcohol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF3BF47-FC74-46D9-B4E8-60BE481191A8}|DrinksWebsite\\DrinksWebsite.csproj|c:\\users\\mgj32\\documents\\github\\drinks\\drinkswebsite\\drinkswebsite\\services\\carouselcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF3BF47-FC74-46D9-B4E8-60BE481191A8}|DrinksWebsite\\DrinksWebsite.csproj|solutionrelative:drinkswebsite\\services\\carouselcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF3BF47-FC74-46D9-B4E8-60BE481191A8}|DrinksWebsite\\DrinksWebsite.csproj|c:\\users\\mgj32\\documents\\github\\drinks\\drinkswebsite\\drinkswebsite\\drinkswebsite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5BF3BF47-FC74-46D9-B4E8-60BE481191A8}|DrinksWebsite\\DrinksWebsite.csproj|solutionrelative:drinkswebsite\\drinkswebsite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarouselController.cs",
+              "DocumentMoniker": "C:\\Users\\mgj32\\Documents\\GitHub\\Drinks\\DrinksWebsite\\DrinksWebsite\\Services\\CarouselController.cs",
+              "RelativeDocumentMoniker": "DrinksWebsite\\Services\\CarouselController.cs",
+              "ToolTip": "C:\\Users\\mgj32\\Documents\\GitHub\\Drinks\\DrinksWebsite\\DrinksWebsite\\Services\\CarouselController.cs",
+              "RelativeToolTip": "DrinksWebsite\\Services\\CarouselController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T10:52:15.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControllerService.cs",
+              "DocumentMoniker": "C:\\Users\\mgj32\\Documents\\GitHub\\Drinks\\DrinksWebsite\\DrinksWebsite\\Services\\ControllerService.cs",
+              "RelativeDocumentMoniker": "DrinksWebsite\\Services\\ControllerService.cs",
+              "ToolTip": "C:\\Users\\mgj32\\Documents\\GitHub\\Drinks\\DrinksWebsite\\DrinksWebsite\\Services\\ControllerService.cs",
+              "RelativeToolTip": "DrinksWebsite\\Services\\ControllerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T10:52:05.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DrinkDataService.cs",
+              "DocumentMoniker": "C:\\Users\\mgj32\\Documents\\GitHub\\Drinks\\DrinksWebsite\\DrinksWebsite\\Services\\DrinkDataService.cs",
+              "RelativeDocumentMoniker": "DrinksWebsite\\Services\\DrinkDataService.cs",
+              "ToolTip": "C:\\Users\\mgj32\\Documents\\GitHub\\Drinks\\DrinksWebsite\\DrinksWebsite\\Services\\DrinkDataService.cs",
+              "RelativeToolTip": "DrinksWebsite\\Services\\DrinkDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T10:51:55.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Liquid.cs",
+              "DocumentMoniker": "C:\\Users\\mgj32\\Documents\\GitHub\\Drinks\\DrinksWebsite\\DrinksWebsite\\Models\\Liquid.cs",
+              "RelativeDocumentMoniker": "DrinksWebsite\\Models\\Liquid.cs",
+              "ToolTip": "C:\\Users\\mgj32\\Documents\\GitHub\\Drinks\\DrinksWebsite\\DrinksWebsite\\Models\\Liquid.cs",
+              "RelativeToolTip": "DrinksWebsite\\Models\\Liquid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T10:51:35.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Drink.cs",
+              "DocumentMoniker": "C:\\Users\\mgj32\\Documents\\GitHub\\Drinks\\DrinksWebsite\\DrinksWebsite\\Models\\Drink.cs",
+              "RelativeDocumentMoniker": "DrinksWebsite\\Models\\Drink.cs",
+              "ToolTip": "C:\\Users\\mgj32\\Documents\\GitHub\\Drinks\\DrinksWebsite\\DrinksWebsite\\Models\\Drink.cs",
+              "RelativeToolTip": "DrinksWebsite\\Models\\Drink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T10:51:24.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Alcohol.cs",
+              "DocumentMoniker": "C:\\Users\\mgj32\\Documents\\GitHub\\Drinks\\DrinksWebsite\\DrinksWebsite\\Models\\Alcohol.cs",
+              "RelativeDocumentMoniker": "DrinksWebsite\\Models\\Alcohol.cs",
+              "ToolTip": "C:\\Users\\mgj32\\Documents\\GitHub\\Drinks\\DrinksWebsite\\DrinksWebsite\\Models\\Alcohol.cs",
+              "RelativeToolTip": "DrinksWebsite\\Models\\Alcohol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T10:51:10.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DrinksWebsite",
+              "DocumentMoniker": "C:\\Users\\mgj32\\Documents\\GitHub\\Drinks\\DrinksWebsite\\DrinksWebsite\\DrinksWebsite.csproj",
+              "RelativeDocumentMoniker": "DrinksWebsite\\DrinksWebsite.csproj",
+              "ToolTip": "C:\\Users\\mgj32\\Documents\\GitHub\\Drinks\\DrinksWebsite\\DrinksWebsite\\DrinksWebsite.csproj",
+              "RelativeToolTip": "DrinksWebsite\\DrinksWebsite.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-25T10:49:55.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

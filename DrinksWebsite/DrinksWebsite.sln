@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrinksWebsite", "DrinksWebsite\DrinksWebsite.csproj", "{5BF3BF47-FC74-46D9-B4E8-60BE481191A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrinksWebsite.Client", "DrinksWebsite.Client\DrinksWebsite.Client.csproj", "{D817E5D6-A0A3-4EC6-9950-A2FCB39884AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BF3BF47-FC74-46D9-B4E8-60BE481191A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BF3BF47-FC74-46D9-B4E8-60BE481191A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BF3BF47-FC74-46D9-B4E8-60BE481191A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BF3BF47-FC74-46D9-B4E8-60BE481191A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D817E5D6-A0A3-4EC6-9950-A2FCB39884AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D817E5D6-A0A3-4EC6-9950-A2FCB39884AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D817E5D6-A0A3-4EC6-9950-A2FCB39884AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D817E5D6-A0A3-4EC6-9950-A2FCB39884AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91CB8C7A-6BDD-4FFB-8403-71F86A12E13F}
+	EndGlobalSection
+EndGlobal
